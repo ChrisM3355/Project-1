@@ -18,8 +18,9 @@ Project Data:
 
 --> This dataset  has been acquired from PurpleAir for further analysis.
 
-**Repository Structure:
-**
+Repository Structure:
+
+
 Project Report
 
 [CIVE202_Spring 2026_Christopher Moore_Project 1.docx](https://github.com/user-attachments/files/25024286/CIVE202_Spring.2026_Christopher.Moore_Project.1.docx)
