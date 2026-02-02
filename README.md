@@ -13,11 +13,13 @@ Project Goals:
 The goal of this project is to provide a detailed statistical analysis of air quality conditions in Nebraska using data acquired from PurpleAir sensors. Our client, UNMC Water, Climate, and Health Working Group, is specifically interested in understanding trends in air quality to identify locations with consistently poor air quality. Additionally, the client seeks to identify locations that do not meet the Air Quality Index (AQI) standards and would like additional information to why. This project will use python to group, filter, and aggregate data to ensure intended results. 
 
 Project Data:
+
 [AirQuality_Daily_StudentVersion.csv](https://github.com/user-attachments/files/25024255/AirQuality_Daily_StudentVersion.csv)
-This dataset  has been acquired from PurpleAir for further analysis.
 
-Repository Structure:
+--> This dataset  has been acquired from PurpleAir for further analysis.
 
+**Repository Structure:
+**
 Project Report
 
 [CIVE202_Spring 2026_Christopher Moore_Project 1.docx](https://github.com/user-attachments/files/25024286/CIVE202_Spring.2026_Christopher.Moore_Project.1.docx)
